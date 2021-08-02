@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Done on local machine on master.
+
+I am a git beginner
+=======
+
+
